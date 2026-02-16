@@ -1,0 +1,5 @@
+.venv/
+pycache/
+*.pyc
+ncm.log
+resultado_ncm.csv
